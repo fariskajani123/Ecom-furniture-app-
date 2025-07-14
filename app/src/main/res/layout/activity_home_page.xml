@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/living_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Living" />
+
+    <Button
+        android:id="@+id/dining_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dining" />
+
+    <Button
+        android:id="@+id/outdoor_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Outdoor" />
+
+    <Button
+        android:id="@+id/bathroom_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bathroom" />
+
+    <Button
+        android:id="@+id/kitchen_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kitchen" />
+
+    <Button
+        android:id="@+id/location_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location" />
+
+    <Button
+        android:id="@+id/about_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About Us" />
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FurnitureShopApp</string>
+    <string name="product_image"></string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="living">Living</string>
+    <string name="dining">Dining</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="location">Location</string>
+    <string name="about_us">About Us</string>
+</resources>
