@@ -28,3 +28,7 @@ A mobile eCommerce furniture application built with Android Studio and Java. The
 1. Clone the repository:
    ```bash
    git clone https://github.com/fariskajani123/Ecom-furniture-app.git
+
+
+
+<img width="2560" height="1439" alt="Screenshot 2025-07-14 at 14 13 05" src="https://github.com/user-attachments/assets/2dabc45f-a099-4548-80b4-8760f9eb8a5c" />
